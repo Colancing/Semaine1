@@ -7,8 +7,8 @@ Je m'appelle Emmanuelle Bersez Hommet. J'ai 39 ans.
 * Licence anglais
 * Iufm (école de formation des maîtres)
 
-Je suis __professeur des écoles__ depuis 15 ans. Ma maison est en France vers Aix en Provence.  
-Cependant, je bouge souvent et j'ai aussi habité en Angleterre, en Corée du sud, et je suis actuellement en Allemagne depuis 3 ans.  
+Je suis __professeur des écoles__ depuis 15 ans. Ma maison est en France, vers Aix en Provence.  
+Cependant, je bouge souvent et j'ai aussi habité en Angleterre, en Corée du sud, et je suis actuellement __en Allemagne__ depuis 3 ans.  
 J'enseigne à l'école internationale d'Augsburg et je profite de cette expatriation pour développer mes aptitudes dans d'autres domaines.  
 Après avoir appris l'allemand, je me suis donc inscrite à une école en ligne, *l'Emweb*, pour y suivre une __formation intégrateur / développeur__.  
 Cela m'a permis de faire mes premiers pas dans le web et le code. Je suis actuellement au trois quart de la formation.  
@@ -24,7 +24,7 @@ Je pense en ouvrir un nouveau prochainement pour voir comment marche le web-mark
   
 ##Pourquoi Simplon ?
 Je me suis inscrite à Simplon car la formation qui est proposée semble répondre à toutes mes attentes : une progression réfléchie, des apprentissages actuels et utiles, une communauté et une interactivité forte.  
-Après m'être amusé avec du code, je voudrais maintenant acquérir des outils pour éventuellement me tourner vers le milieu professionnel et ça me semble le bon chemin.  
+Après m'être amusée avec du code, je voudrais maintenant __acquérir des outils__ pour éventuellement me tourner __vers le milieu professionnel__ et ça me semble le bon chemin.  
 Je n'en ai reçu que de bons échos et je suis impatiente de me plonger dans cette formation.  
 
   ----------------
